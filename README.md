@@ -1,4 +1,4 @@
-### Hi there 👋
+### <3
 
 <!--
 **sofiahahn/sofiahahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
